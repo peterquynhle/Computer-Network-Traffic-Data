@@ -1,5 +1,6 @@
 # Computer-Network-Traffic-Data
-Explore when a compromise has occurred by a change in the pattern of communication?
+Objective:
+- Explore when a compromise has occurred by a change in the pattern of communication
 
 Data sources:
 - Computer Security
